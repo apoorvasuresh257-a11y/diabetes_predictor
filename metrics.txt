@@ -1,0 +1,16 @@
+Metrics generated: 2026-05-22T23:41:58.196023
+Accuracy: 0.759740
+
+Confusion matrix:
+[[78 21]
+ [16 39]]
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0       0.83      0.79      0.81        99
+           1       0.65      0.71      0.68        55
+
+    accuracy                           0.76       154
+   macro avg       0.74      0.75      0.74       154
+weighted avg       0.77      0.76      0.76       154
